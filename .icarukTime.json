@@ -1,0 +1,30 @@
+{
+    "idleHeartbeats": 7186,
+    "navigatingHeartbeats": 1546,
+    "totalCodingHeartbeats": 7080,
+    "languageHeartbeats": {
+        "jsonc": 719,
+        "typescript": 1072,
+        "json": 703,
+        "vue": 4540,
+        "editorconfig": 1,
+        "scminput": 45
+    },
+    "fileHeartbeats": {
+        ".vscode/settings.json": 448,
+        "nuxt.config.ts": 1009,
+        "package.json": 578,
+        "locales/ru.json": 125,
+        "pages/index.vue": 3820,
+        "plugins/i18n.ts": 3,
+        "tsconfig.json": 155,
+        ".eslintrc": 60,
+        ".editorconfig": 1,
+        "c:/Users/DarK9/AppData/Roaming/Code/User/settings.json": 56,
+        "tailwind.config.ts": 60,
+        "components/TheFooter.vue": 186,
+        "components/TheMain.vue": 149,
+        "components/TheHeader.vue": 385,
+        "git/scm0/input": 45
+    }
+}
